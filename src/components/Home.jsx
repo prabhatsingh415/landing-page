@@ -1,6 +1,6 @@
 import React from "react";
 import { home1, home2 } from "..";
-import SignInJoinForm from "./SigninJoinForm";
+import SignInJoinForm from "./SignInJoinForm";
 
 function Home() {
   return (
