@@ -16,7 +16,7 @@ import people from "./assets/people.png";
 import product_icon from "./assets/product_icon.png";
 import location from "./assets/location.png";
 import program from "./assets/program.png";
-import add from "./assets/add.png";
+import add from "./assets/Add.png";
 import quote from "./assets/quote.png";
 import Audio_Track from "./assets/Audio-Track.png";
 import profile from "./assets/profile.png";
